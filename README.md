@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório que contém todos os recursos necessários para criar um artigo de peso sobre Vue.js, utilizando quatro ferramentas incríveis: ChatGPT, Lexi.art, Remove Bg e Power Point. Este guia o ajudará a entender como usar essas tecnologias para criar conteúdo envolvente e visualmente impactante.
 
-##Resultado
+## Resultado
 
 Confira o resultado desse projeto acessando o link: https://dio.me/articles/explorando-vuejs-o-caminho-para-uma-interface-frontend-mais-dinamica?q=1271
 
